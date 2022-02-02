@@ -1,4 +1,4 @@
-##Introduction-To-Programming
+#Introduction-To-Programming
 # Measure of Central Tendencies
 Today our main focus is the three central measure of tendencies and their respective meanings;
 
