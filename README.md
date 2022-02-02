@@ -16,3 +16,6 @@ The midpoint value of a data set for which an equal number of samples are less t
 Precision refers to the number of significant digits in a number , an example is the number 123.45 and 0.0012345  both have a precision of 5.
 
 Scale refers to the number of significant digits to the right of the decimal point.  An example is the 123.45 has two decimal place.
+
+
+Project still in progress 
